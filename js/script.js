@@ -126,18 +126,18 @@
 // console.log(x)
 
 // STEP 21 - application with comparison and logical operators that evaluates to true
-let numberA = 4
-let numberB = 4
-let numberThatBothOtherNumbersMustEqual = 4
-let myResult = (numberThatBothOtherNumbersMustEqual === numberA) && (numberThatBothOtherNumbersMustEqual === numberB)
-console.log(myResult)
+// let numberA = 4
+// let numberB = 4
+// let numberThatBothOtherNumbersMustEqual = 4
+// let myResult = (numberThatBothOtherNumbersMustEqual === numberA) && (numberThatBothOtherNumbersMustEqual === numberB)
+// console.log(myResult)
 
 // STEP 22 - application with different comparison and logical operators that evaluates to false
-let numberC = 3
-let numberD = 7
-let numberThatAtLeastOneOtherNumberMustBeGreaterThan = 184
-let myOtherResult = (numberThatAtLeastOneOtherNumberMustBeGreaterThan < numberC) || (numberThatAtLeastOneOtherNumberMustBeGreaterThan < numberD)
-console.log(myOtherResult)
+// let numberC = 3
+// let numberD = 7
+// let numberThatAtLeastOneOtherNumberMustBeGreaterThan = 184
+// let myOtherResult = (numberThatAtLeastOneOtherNumberMustBeGreaterThan < numberC) || (numberThatAtLeastOneOtherNumberMustBeGreaterThan < numberD)
+// console.log(myOtherResult)
 
 
 // document.write("test")
