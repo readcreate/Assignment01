@@ -138,6 +138,3 @@
 // let numberThatAtLeastOneOtherNumberMustBeGreaterThan = 184
 // let myOtherResult = (numberThatAtLeastOneOtherNumberMustBeGreaterThan < numberC) || (numberThatAtLeastOneOtherNumberMustBeGreaterThan < numberD)
 // console.log(myOtherResult)
-
-
-// document.write("test")
